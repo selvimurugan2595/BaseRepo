@@ -20,6 +20,8 @@ public class Loops{
 	    if(userName.equals("admin") && passWord.equals("Yuga"))
 	    {
 	    	System.out.println("Login Sucessfull");
+	    	System.out.println("Welcome");
+	    	
 	    	
 	    }
 	    else
